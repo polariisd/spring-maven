@@ -42,8 +42,8 @@
 		</dependency>
 
 		<dependency>
-			<groupID>org.springframework.boot</groupID>
-			<artifactID>pring-boot-starter-web</artifactID>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>pring-boot-starter-web</artifactId>
 	</dependencies>
 
 	<build>
