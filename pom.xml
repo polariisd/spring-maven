@@ -40,6 +40,10 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupID>org.springframework.boot</groupID>
+			<artifactID>pring-boot-starter-web</artifactID>
 	</dependencies>
 
 	<build>
